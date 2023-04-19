@@ -1,16 +1,20 @@
-### Hi there 👋
+![](images/banner.png)
 
-<!--
-**laualon/laualon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h2> Hello World! </h2>
+    <h3> Hi 👋 My name is Laura </h3>
+    <p> <b> Consultant 🖥️ | Project Manager 📚 | Researcher 🕵️ </b> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+### Metrics
+  
+[![Laura Alonso's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=laualon&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+  
+
+### Working on
+
+<a href="https://github.com/factorlibre" target="_blank" rel="noreferrer"><img src="https://factorlibre.com/wp-content/uploads/2017/11/logo-factor-libre-menu-colour.png" alt="FactorLibre" /></a>
+
+</div>
